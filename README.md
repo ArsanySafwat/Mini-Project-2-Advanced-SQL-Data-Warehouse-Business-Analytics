@@ -110,5 +110,6 @@ same flat year ($19,899 → $7,551). Texas and Illinois are the two
 highest-revenue states but are both net unprofitable overall.
 
 ## Tools
-Assistance of AI
-SQL Server (T-SQL)
+-Assistance of AI
+
+-SQL Server (T-SQL)
